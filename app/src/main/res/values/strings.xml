@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BlueChat</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="loginText">Get Started</string>
+    <string name="welcomeText">Enjoy the new experience of chatting with global friends</string>
+    <string name="signuptext">Are you new here? Tap to Sign Up</string>
+    <string name="searchMessage">Search message…</string>
+    <string name="typeHere">Type here…</string>
+    <string name="send_message">send message</string>
+    <string name="get_started">Get Started</string>
+    <string name="connect_people_around_the_world_for_free">Connect people around the world for free</string>
+</resources>
